@@ -1,0 +1,5 @@
+experiment,condition,mean_time_s,throughput_tokens_sec,additional_info
+Best Static Split,12 / 16,1.584767,6.310075,Best tested static partition
+Best Network Condition,2 ms,1.6157810000004247,6.1889575381796,Lowest measured network delay
+Worst Network Condition,100 ms,1.6713005666582224,5.98336421317386,Highest measured network delay
+Network Throughput Change,2 ms to 100 ms,,,3.32% decrease

@@ -1,0 +1,6 @@
+timestamp,model,device,run_number,new_tokens,generation_time_seconds,throughput_tokens_per_second
+2026-09-11T20:04:41,Llama 3.2 3B,CPU,1,10,3.118468,3.206703
+2026-09-11T20:04:41,Llama 3.2 3B,CPU,2,10,3.135392,3.189394
+2026-09-11T20:04:41,Llama 3.2 3B,CPU,3,10,3.159219,3.165339
+2026-09-11T20:04:41,Llama 3.2 3B,CPU,4,10,3.199989,3.125011
+2026-09-11T20:04:41,Llama 3.2 3B,CPU,5,10,3.244013,3.082602

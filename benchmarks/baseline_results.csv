@@ -1,0 +1,2 @@
+model,method,device,new_tokens,generation_time_seconds,throughput_tokens_per_second
+Llama 3.2 3B,Baseline,CPU,10,3.5701,2.801

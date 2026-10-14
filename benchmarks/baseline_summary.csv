@@ -1,0 +1,2 @@
+timestamp,model,device,warmup_runs,measured_runs,mean_time_seconds,median_time_seconds,std_time_seconds,mean_throughput_tokens_per_second,median_throughput_tokens_per_second,std_throughput_tokens_per_second
+2026-09-11T20:04:41,Llama 3.2 3B,CPU,2,5,3.171416,3.159219,0.050835,3.15381,3.165339,0.050242

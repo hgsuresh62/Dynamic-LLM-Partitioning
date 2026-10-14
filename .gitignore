@@ -1,0 +1,40 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Downloaded model weights and model caches
+models/llama-3.2-3b/
+models/*.safetensors
+models/*.bin
+models/*.pth
+models/*.onnx
+models/*.gguf
+models/*.pt
+
+# Hugging Face cache
+.cache/
+huggingface_cache/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
